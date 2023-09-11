@@ -1,0 +1,22 @@
+.ab{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(238, 120, 120);
+}
+
+ul li a{
+   margin-left: 5px; 
+}
+
+ul.ab li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
